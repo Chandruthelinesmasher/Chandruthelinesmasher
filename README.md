@@ -1,14 +1,10 @@
-🚀 Cloud & DevOps Engineer | Open Source Contributor
-💻 Passionate about building scalable cloud solutions and automating workflows.
-☁️ Certified in AWS & Azure | Cloud | DevOps | Security
-🔧 Skilled in Serverless, Kubernetes, Ansible, Terraform, and CI/CD
-📖 Currently learning Go & Kubernetes | Preparing for GSoC 2025
-🎤 Speaker at Azure Developer Community Tamil Nadu
-📢 Sharing insights on Cloud & DevOps on LinkedIn
+# Hi there, I'm Chandru K 👋  
 
-🔗 Let’s connect and build something awesome together!
+🚀 **Cloud & DevOps Engineer | Open Source Contributor**  
 
-<!---
-Chandruthelinesmasher/Chandruthelinesmasher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Passionate about building scalable cloud solutions and automating workflows.  
+☁️ **Certified:** AWS & Azure | Cloud | DevOps | Security  
+🔧 **Tech Stack:** Serverless, Kubernetes, Ansible, Terraform, CI/CD  
+📖 **Currently Learning:** Go & Kubernetes | Preparing for **GSoC 2025**  
+🎤 **Speaker:** Azure Developer Community Tamil Nadu  
+📢 **Sharing insights on:** [LinkedIn]([your-link-here](https://www.linkedin.com/in/chandru-k-cloud-20-conqueror03/))  
